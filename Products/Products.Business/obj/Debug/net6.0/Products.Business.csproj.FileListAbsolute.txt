@@ -1,0 +1,15 @@
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\obj\Debug\net6.0\Products.Business.csproj.AssemblyReference.cache
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\obj\Debug\net6.0\Products.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\obj\Debug\net6.0\Products.Business.AssemblyInfoInputs.cache
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\obj\Debug\net6.0\Products.Business.AssemblyInfo.cs
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\obj\Debug\net6.0\Products.Business.csproj.CoreCompileInputs.cache
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\bin\Debug\net6.0\Products.Business.deps.json
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\bin\Debug\net6.0\Products.Business.dll
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\bin\Debug\net6.0\Products.Business.pdb
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\bin\Debug\net6.0\Products.Models.dll
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\bin\Debug\net6.0\Products.Models.pdb
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\obj\Debug\net6.0\Products.Business.csproj.CopyComplete
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\obj\Debug\net6.0\Products.Business.dll
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\obj\Debug\net6.0\refint\Products.Business.dll
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\obj\Debug\net6.0\Products.Business.pdb
+C:\Source\PruebaTecnicaEverest\Products\Products.Business\obj\Debug\net6.0\ref\Products.Business.dll
